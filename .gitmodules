@@ -1,0 +1,6 @@
+[submodule "ConjugateDual.github.io"]
+	path = ConjugateDual.github.io
+	url = git@github.com:ConjugateDual/ConjugateDual.github.io.git
+[submodule "output"]
+	path = output
+	url = git@github.com:ConjugateDual/ConjugateDual.github.io.git
